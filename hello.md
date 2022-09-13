@@ -1,6 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is the classic Hello World program. I wrote it to demonstrate my development environment using Python.
 
 {Provide a description of your software}
 
@@ -11,6 +11,9 @@
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
+* Python 3.9.7 32 bit
+* Visual Studio Code
+* Git / GitHub
 
 {Describe the tools that you used to develop the software}
 
@@ -19,5 +22,6 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
+* [GitHub](https://github.com/HUANG37W/HelloWorld)
 * [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+ ![Web Site Name](http://url.link.goes.here)
