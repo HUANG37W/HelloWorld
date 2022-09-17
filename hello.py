@@ -1,1 +1,1 @@
-print("Guten Tag Rexburg，你好!")
+print("Guten Tag Rexburg | 你好!")
