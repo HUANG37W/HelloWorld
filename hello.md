@@ -2,7 +2,7 @@
 
 This is the classic Hello World program. I wrote it to demonstrate my development environment using Python.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MEHQXH_OwSU)
 
 # Development Environment
 * Python 3.9.7 32 bit
